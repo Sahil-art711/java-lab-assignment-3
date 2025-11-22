@@ -1,4 +1,4 @@
-# 2401010045-Java_Lab.Assignment-3
+# Java Lab Assignment-3
 This Java program manages student records with exception handling and multithreading. It reads student details, validates inputs, and throws custom exceptions for invalid data. A loading animation runs in a separate thread before displaying the student's details and calculated grade.
 
 # 📘 Student Management System – Exception Handling, Multithreading & Wrapper Classes  
